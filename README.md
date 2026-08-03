@@ -1,0 +1,6 @@
+- 구글 슬라이드
+  - [수업 자료 구글 슬라이드](https://docs.google.com/presentation/d/1ZQ7YVC-VeYIgE5eFo3LSCvn_FcGMGzmAFCAHhVv9W0A/edit?usp=drive_link)
+- 프로젝트 제출 분석 사이트
+  - [바이브코딩스쿨 교육ROI센터](https://roi.vibecodingschool.co.kr) <br><br>
+- 파이썬 공부 - 문제 풀기
+   - [Python 300제](https://wikidocs.net/7014)
