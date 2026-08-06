@@ -3,7 +3,7 @@
 - 프로젝트 제출 사이트
   - [바이브코딩스쿨 교육ROI센터](https://roi.vibecodingschool.co.kr) >> 로그인(구글계정)
   - 참여코드
-      - 철도연 : 
+      - 철도연 : EWRQ2UXP
       - nst : TN4I8D7K <br><br>
 - 파이썬 공부 - 문제 풀기
    - [Python 300제](https://wikidocs.net/7014)
