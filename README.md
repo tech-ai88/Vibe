@@ -1,5 +1,5 @@
 - 구글 슬라이드
-  - [수업 자료 구글 슬라이드](https://docs.google.com/presentation/d/1ZQ7YVC-VeYIgE5eFo3LSCvn_FcGMGzmAFCAHhVv9W0A/edit?usp=drive_link) <br><br>
+  - [수업 자료 구글 슬라이드](https://docs.google.com/presentation/d/1qAtfixT_ilQi90_cLBX_c9EmThQjZP4Vz2CgYn7eUXg/edit?usp=drive_link)) <br><br>
 - 프로젝트 제출 사이트
   - [바이브코딩스쿨 교육ROI센터](https://roi.vibecodingschool.co.kr) >> 로그인(구글계정)
   - 참여코드
