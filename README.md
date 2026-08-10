@@ -5,5 +5,10 @@
   - 참여코드
       - 철도연 : EWRQ2UXP
       - nst : TN4I8D7K <br><br>
+- GIT 친구 추가
+  - GIT 사이트에 회원가입을 완료해 주세요.
+  - 아래 링크에 본인의 아이디를 입력하시면, 강사가 친구 추가를 진행합니다.
+    - https://docs.google.com/spreadsheets/d/1mN8hJh_wWzlS93v9FQEmH31FdP8BGDdffIb8obf822Y/edit?usp=sharing 
+  - 강사 친구 추가 후, 메일로 관련 내용을 전달되면 승인 하셔서 GIT 닫혀도 보실 수 있습니다. <br><br>
 - 파이썬 공부 - 문제 풀기
    - [Python 300제](https://wikidocs.net/7014)
