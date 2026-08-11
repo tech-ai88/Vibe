@@ -4,7 +4,7 @@
   - [바이브코딩스쿨 교육ROI센터](https://roi.vibecodingschool.co.kr) >> 로그인(구글계정)
   - 참여코드
       - 철도연 : EWRQ2UXP
-      - nst : TN4I8D7K <br><br>
+      - NST : TN4I8D7K <br><br>
 - GIT 친구 추가
   - GIT 사이트에 회원가입을 완료해 주세요.
   - 아래 링크에 본인의 아이디를 입력하시면, 강사가 친구 추가를 진행합니다.
